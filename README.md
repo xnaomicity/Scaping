@@ -10,7 +10,6 @@ Tools sederhana untuk scraping dan download video dari berbagai platform streami
 
 ## ⚙️ Penggunaan
 
-### 1. Clone Repository
-```bash
-git [clone https://github.com/username/reponame.git](https://github.com/xnaomicity/Scaping.git)
-cd reponame
+### 1. Download file
+https://drive.usercontent.google.com/download?id=10fkapDs0yUnOHgYaw01S_2p2Sa-90HDD&export=download&authuser=0
+
