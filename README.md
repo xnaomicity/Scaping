@@ -18,3 +18,6 @@ bikin file cookies.txt, paste cookies x
 
 ### 1. Download file
 https://drive.google.com/drive/folders/1W0fnKABGlaEQWn4N0iUwXhZTaiRmRtiL?usp=sharing
+
+### 2. Cookies 
+https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
