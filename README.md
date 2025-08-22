@@ -1,7 +1,8 @@
 # 🎥 Streaming Video Scraper
-
-Tools sederhana untuk scraping all video dari platform:
-
+Tools ini sangat cocok untuk kalian url streaming url thumbailnya di website kalian lagi.
+contohnya 
+https://nekonime.blog/
+Tools sederhana untuk scraping all streaming video dari platform:
 - TikTok  
 - YouTube  
 - X (Twitter)
