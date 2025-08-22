@@ -15,4 +15,4 @@ bikin file cookies.txt, paste cookies x
 ## ⚙️ Penggunaan
 
 ### 1. Download file
-https://drive.usercontent.google.com/download?id=1NbQMt7VYj8gBPVuq_s0WBsg4VemcGDD3&export=download&authuser=0
+https://drive.google.com/drive/folders/1W0fnKABGlaEQWn4N0iUwXhZTaiRmRtiL?usp=sharing
