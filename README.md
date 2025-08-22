@@ -1,11 +1,12 @@
 # 🎥 Streaming Video Scraper
 
-Tools sederhana untuk scraping dan download video dari berbagai platform streaming populer:
+Tools sederhana untuk scraping all video dari platform:
 
 - TikTok  
 - YouTube  
 - X (Twitter)
 - Telegram
+- Website
 - dll
 
   note : khusus buat X(twitter)
